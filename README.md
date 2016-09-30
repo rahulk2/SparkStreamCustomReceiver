@@ -1,5 +1,6 @@
 # SparkStreamCustomReceiver
 
-    If you want to realise complete performance then you also need to <b>create following table</b> in <b>mysql</b> and <b>insert some data</b> : <br/>
+    If you want to realise complete performance then you also need to create following table in mysql 
+    and insert some data : 
 
-    <h2>create table IF NOT EXISTS deviceTokens(id VARCHAR(255),token VARCHAR(255));<h2>
+    create table IF NOT EXISTS deviceTokens(id VARCHAR(255),token VARCHAR(255));
